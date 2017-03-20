@@ -1,0 +1,10 @@
+C:\practicando\TestingSomeWebside\TestingSomeWebside\bin\Debug\TestingSomeWebside.exe.config
+C:\practicando\TestingSomeWebside\TestingSomeWebside\bin\Debug\TestingSomeWebside.exe
+C:\practicando\TestingSomeWebside\TestingSomeWebside\bin\Debug\TestingSomeWebside.pdb
+C:\practicando\TestingSomeWebside\TestingSomeWebside\bin\Debug\WebDriver.dll
+C:\practicando\TestingSomeWebside\TestingSomeWebside\bin\Debug\WebDriver.Support.dll
+C:\practicando\TestingSomeWebside\TestingSomeWebside\bin\Debug\WebDriver.xml
+C:\practicando\TestingSomeWebside\TestingSomeWebside\bin\Debug\WebDriver.Support.xml
+C:\practicando\TestingSomeWebside\TestingSomeWebside\obj\Debug\TestingSomeWebside.csprojResolveAssemblyReference.cache
+C:\practicando\TestingSomeWebside\TestingSomeWebside\obj\Debug\TestingSomeWebside.exe
+C:\practicando\TestingSomeWebside\TestingSomeWebside\obj\Debug\TestingSomeWebside.pdb
